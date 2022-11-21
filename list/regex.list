@@ -1,3 +1,4 @@
+# Streaming sites
 (^|\.)netflix$
 (^|\.)svtplay$
 (^|\.)disneyplus$
@@ -6,5 +7,4 @@
 (^|\.)hbomax$
 (^|\.)viafree$
 (^|\.)pluto$
-
 
